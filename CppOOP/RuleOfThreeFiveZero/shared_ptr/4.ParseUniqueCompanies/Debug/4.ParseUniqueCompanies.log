@@ -1,0 +1,2 @@
+﻿  ParseUniqueCompaniesMain.cpp
+C:\donchos\source\CppOOP\RuleOfThreeFiveZero\shared_ptr\4.ParseUniqueCompanies\ParseCompanies.h(36,25): error C2065: 'size': undeclared identifier

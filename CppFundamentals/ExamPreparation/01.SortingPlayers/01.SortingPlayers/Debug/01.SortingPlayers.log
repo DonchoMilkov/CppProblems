@@ -1,0 +1,5 @@
+﻿  01.SortingPlayers.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.SortingPlayers\01.SortingPlayers\01.SortingPlayers.cpp(42,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.SortingPlayers\01.SortingPlayers\01.SortingPlayers.cpp(46,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.SortingPlayers\01.SortingPlayers\01.SortingPlayers.cpp(60,9): warning C4018: '>=': signed/unsigned mismatch
+  01.SortingPlayers.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\Debug\01.SortingPlayers.exe

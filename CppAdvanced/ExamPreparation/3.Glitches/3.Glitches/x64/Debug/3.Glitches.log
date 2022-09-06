@@ -1,0 +1,14 @@
+﻿  3.Glitches.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(42,22): warning C4267: '=': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(43,23): warning C4267: '=': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(69,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(69,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(70,4): error C3861: 'processGlitch': identifier not found

@@ -1,0 +1,5 @@
+﻿  05.CartesianProduct.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Arrays\05.CartesianProduct\05.CartesianProduct\05.CartesianProduct.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Arrays\05.CartesianProduct\05.CartesianProduct\05.CartesianProduct.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Arrays\05.CartesianProduct\05.CartesianProduct\05.CartesianProduct.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+  05.CartesianProduct.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Arrays\x64\Debug\05.CartesianProduct.exe

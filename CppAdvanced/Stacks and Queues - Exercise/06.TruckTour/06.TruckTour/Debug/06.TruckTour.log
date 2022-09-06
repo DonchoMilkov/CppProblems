@@ -1,0 +1,4 @@
+﻿  06.TruckTour.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Stacks and Queues - Exercise\06.TruckTour\06.TruckTour\06.TruckTour.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Stacks and Queues - Exercise\06.TruckTour\06.TruckTour\06.TruckTour.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+  06.TruckTour.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Stacks and Queues - Exercise\Debug\06.TruckTour.exe

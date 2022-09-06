@@ -1,0 +1,4 @@
+﻿  06.BarcodeGenerator.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\06.BarcodeGenerator\06.BarcodeGenerator\06.BarcodeGenerator.cpp(11,17): warning C4101: 'symbol': unreferenced local variable
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\06.BarcodeGenerator\06.BarcodeGenerator\06.BarcodeGenerator.cpp(11,6): warning C4101: 'currentNum': unreferenced local variable
+  06.BarcodeGenerator.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\Debug\06.BarcodeGenerator.exe

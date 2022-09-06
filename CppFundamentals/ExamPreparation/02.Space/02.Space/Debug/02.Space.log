@@ -1,0 +1,6 @@
+﻿  02.Space.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\02.Space\02.Space\02.Space.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\02.Space\02.Space\02.Space.cpp(16,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\02.Space\02.Space\02.Space.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\02.Space\02.Space\02.Space.cpp(35,24): warning C4018: '<': signed/unsigned mismatch
+  02.Space.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\Debug\02.Space.exe

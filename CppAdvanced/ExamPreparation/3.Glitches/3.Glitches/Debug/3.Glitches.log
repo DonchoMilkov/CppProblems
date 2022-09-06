@@ -1,0 +1,8 @@
+﻿  3.Glitches.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(35,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(52,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(54,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(56,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\3.Glitches\3.Glitches\3.Glitches.cpp(58,28): warning C4018: '<': signed/unsigned mismatch
+  3.Glitches.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Debug\3.Glitches.exe

@@ -1,0 +1,3 @@
+﻿  03.TitleCase.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\StringsAndStreams\03.TitleCase\03.TitleCase\03.TitleCase.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  03.TitleCase.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\StringsAndStreams\Debug\03.TitleCase.exe

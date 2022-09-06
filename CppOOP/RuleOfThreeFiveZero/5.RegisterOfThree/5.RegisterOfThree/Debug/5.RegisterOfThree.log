@@ -1,0 +1,3 @@
+﻿  Register.cpp
+C:\donchos\source\CppOOP\RuleOfThreeFiveZero\5.RegisterOfThree\5.RegisterOfThree\Register.cpp(24): warning C4715: 'Register::get': not all control paths return a value
+  5.RegisterOfThree.vcxproj -> C:\donchos\source\CppOOP\RuleOfThreeFiveZero\Debug\5.RegisterOfThree.exe

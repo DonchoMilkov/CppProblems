@@ -1,0 +1,10 @@
+﻿  03.MovieDestination.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(19,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(23,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(28,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(36,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(41,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(46,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(52,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\03.MovieDestination\03.MovieDestination\03.MovieDestination.cpp(56,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  03.MovieDestination.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppBasics\ExamPreparation\Debug\03.MovieDestination.exe

@@ -1,0 +1,22 @@
+﻿  SequencesMain.cpp
+C:\donchos\source\CppOOP\Special Class Members - Exercise\8.Sequence\8.Sequence\Sequence.h(52,24): warning C4018: '<': signed/unsigned mismatch
+C:\donchos\source\CppOOP\Special Class Members - Exercise\8.Sequence\8.Sequence\Sequence.h(51): message : while compiling class template member function 'void Sequence<T,Generator>::generateNext(int)'
+          with
+          [
+              T=int,
+              Generator=FibonacciGenerator
+          ]
+C:\donchos\source\CppOOP\Special Class Members - Exercise\8.Sequence\8.Sequence\SequencesMain.cpp(41): message : see reference to function template instantiation 'void Sequence<T,Generator>::generateNext(int)' being compiled
+          with
+          [
+              T=int,
+              Generator=FibonacciGenerator
+          ]
+C:\donchos\source\CppOOP\Special Class Members - Exercise\8.Sequence\8.Sequence\SequencesMain.cpp(37): message : see reference to class template instantiation 'Sequence<T,Generator>' being compiled
+          with
+          [
+              T=int,
+              Generator=FibonacciGenerator
+          ]
+C:\donchos\source\CppOOP\Special Class Members - Exercise\8.Sequence\8.Sequence\SequencesMain.cpp(57): message : see reference to function template instantiation 'void readGenerateWrite<int,FibonacciGenerator>(void)' being compiled
+  8.Sequence.vcxproj -> C:\donchos\source\CppOOP\Special Class Members - Exercise\Debug\8.Sequence.exe

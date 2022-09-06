@@ -1,0 +1,17 @@
+﻿  MaxSumArrayMain.cpp
+C:\donchos\source\CppOOP\Inheritance\3.MaxSumArray\3.MaxSumArray\Array.h(18,21): error C2676: binary '[': 'std::shared_ptr<T>' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              T=int
+          ]
+C:\donchos\source\CppOOP\Inheritance\3.MaxSumArray\3.MaxSumArray\Array.h(17): message : while compiling class template member function 'T &Array<T>::operator [](size_t)'
+          with
+          [
+              T=int
+          ]
+C:\donchos\source\CppOOP\Inheritance\3.MaxSumArray\3.MaxSumArray\MaxSumArrayMain.cpp(24): message : see reference to function template instantiation 'T &Array<T>::operator [](size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\donchos\source\CppOOP\Inheritance\3.MaxSumArray\3.MaxSumArray\MaxSumArrayMain.cpp(11): message : see reference to class template instantiation 'Array<int>' being compiled

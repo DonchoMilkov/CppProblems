@@ -1,0 +1,6 @@
+﻿  01.Top5Elements.cpp
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.Top5Elements\01.Top5Elements\01.Top5Elements.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.Top5Elements\01.Top5Elements\01.Top5Elements.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.Top5Elements\01.Top5Elements\01.Top5Elements.cpp(28,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.Top5Elements\01.Top5Elements\01.Top5Elements.cpp(13,6): warning C4101: 'temp': unreferenced local variable
+  01.Top5Elements.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\Debug\01.Top5Elements.exe
