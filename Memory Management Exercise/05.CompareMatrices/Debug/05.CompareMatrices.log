@@ -1,4 +1,0 @@
-﻿  05.CompareMatrices.cpp
-C:\Users\dmilkov\Documents\donchos\source\Memory Management Exercise\05.CompareMatrices\05.CompareMatrices.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\Memory Management Exercise\05.CompareMatrices\05.CompareMatrices.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
-  05.CompareMatrices.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\Memory Management Exercise\Debug\05.CompareMatrices.exe

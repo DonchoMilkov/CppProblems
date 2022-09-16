@@ -1,4 +1,0 @@
-﻿  01.BelowAverageOnly.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.BelowAverageOnly\01.BelowAverageOnly\01.BelowAverageOnly.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\01.BelowAverageOnly\01.BelowAverageOnly\01.BelowAverageOnly.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
-  01.BelowAverageOnly.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\ExamPreparation\Debug\01.BelowAverageOnly.exe

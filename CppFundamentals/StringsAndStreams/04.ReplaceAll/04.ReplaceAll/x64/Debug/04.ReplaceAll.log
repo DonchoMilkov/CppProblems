@@ -1,4 +1,0 @@
-﻿  04.ReplaceAll.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\StringsAndStreams\04.ReplaceAll\04.ReplaceAll\04.ReplaceAll.cpp(28,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\StringsAndStreams\04.ReplaceAll\04.ReplaceAll\04.ReplaceAll.cpp(38,31): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  04.ReplaceAll.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\StringsAndStreams\x64\Debug\04.ReplaceAll.exe

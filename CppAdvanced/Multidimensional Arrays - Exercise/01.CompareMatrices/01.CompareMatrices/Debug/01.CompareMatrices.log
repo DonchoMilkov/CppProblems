@@ -1,5 +1,0 @@
-﻿  01.CompareMatrices.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Multidimensional Arrays - Exercise\01.CompareMatrices\01.CompareMatrices\01.CompareMatrices.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Multidimensional Arrays - Exercise\01.CompareMatrices\01.CompareMatrices\01.CompareMatrices.cpp(13,24): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Multidimensional Arrays - Exercise\01.CompareMatrices\01.CompareMatrices\01.CompareMatrices.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
-  01.CompareMatrices.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Multidimensional Arrays - Exercise\Debug\01.CompareMatrices.exe

@@ -1,6 +1,0 @@
-﻿  Zad1.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Zad1\Zad1.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Zad1\Zad1.cpp(28,24): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Zad1\Zad1.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Zad1\Zad1.cpp(36,24): warning C4018: '<': signed/unsigned mismatch
-  Zad1.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\ExamPreparation\Debug\Zad1.exe

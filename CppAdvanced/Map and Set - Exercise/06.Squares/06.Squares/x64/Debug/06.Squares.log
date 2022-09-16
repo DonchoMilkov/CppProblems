@@ -1,7 +1,0 @@
-﻿  06.Squares.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Map and Set - Exercise\06.Squares\06.Squares\06.Squares.cpp(25,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
-          with
-          [
-              _Ty=int
-          ]
-  06.Squares.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppAdvanced\Map and Set - Exercise\x64\Debug\06.Squares.exe

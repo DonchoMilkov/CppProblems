@@ -1,4 +1,0 @@
-﻿  01.CenterPoint.cpp
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Functions - Exercises\01.CenterPoint\01.CenterPoint\01.CenterPoint.cpp(9,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
-C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Functions - Exercises\01.CenterPoint\01.CenterPoint\01.CenterPoint.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
-  01.CenterPoint.vcxproj -> C:\Users\dmilkov\Documents\donchos\source\CppFundamentals\Functions - Exercises\Debug\01.CenterPoint.exe
