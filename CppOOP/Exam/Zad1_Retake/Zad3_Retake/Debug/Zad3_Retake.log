@@ -1,0 +1,4 @@
+﻿  InputParser.cpp
+C:\donchos\source\CppProblemsGit\CppProblems\CppOOP\Exam\Zad1_Retake\Zad3_Retake\InputParser.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\donchos\source\CppProblemsGit\CppProblems\CppOOP\Exam\Zad1_Retake\Zad3_Retake\InputParser.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+  Zad3_Retake.vcxproj -> C:\donchos\source\CppProblemsGit\CppProblems\CppOOP\Exam\Debug\Zad3_Retake.exe
